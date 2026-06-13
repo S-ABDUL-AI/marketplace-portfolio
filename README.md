@@ -14,8 +14,8 @@ to two-sided platform strategy problems.
 
 | Tool | Live App | GitHub |
 |------|----------|--------|
-| Marketplace Growth & Experimentation Lab | [Open App](https://marketplace-experimentation-lab.streamlit.app) | [Repo](https://github.com/S-ABDUL-AI/marketplace-experimentation-lab) |
-| Marketplace Causal Inference & Incrementality Engine | [Open App](https://causal-inference-incrementality-engine.streamlit.app) | [Repo](https://github.com/S-ABDUL-AI/causal-inference-incrementality-engine) |
+| Marketplace Growth & Experimentation Lab | [Open App](https://marketplacegrowthexperimentationlab.streamlit.app) | [Repo](https://github.com/S-ABDUL-AI/marketplace-experimentation-lab) |
+| Marketplace Causal Inference & Incrementality Engine | [Open App](https://marketplace-causal-inference-incrementality-engine.streamlit.app) | [Repo](https://github.com/S-ABDUL-AI/causal-inference-incrementality-engine) |
 | Marketplace Economics & Supply-Demand Optimization Engine | [Open App](https://marketplace-economics-engine.streamlit.app) | [Repo](https://github.com/S-ABDUL-AI/marketplace-economics-engine) |
 
 ---

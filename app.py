@@ -271,7 +271,7 @@ with col1:
             and a Bayesian decision framework with ship/no-ship recommendations.
             Includes an AI Analytics Copilot powered by Claude.
         </div>
-        <a class="btn-primary" href="https://marketplace-experimentation-lab.streamlit.app" target="_blank">🚀 Open App</a>
+        <a class="btn-primary" href="https://marketplacegrowthexperimentationlab.streamlit.app" target="_blank">🚀 Open App</a>
         <a class="btn-secondary" href="https://github.com/S-ABDUL-AI/marketplace-experimentation-lab" target="_blank">⌥ GitHub</a>
     </div>
     """,
@@ -297,7 +297,7 @@ with col2:
             Synthetic Control, Propensity Score Matching, Instrumental Variables,
             Event Study, and an Incrementality Simulator with ROI decision output.
         </div>
-        <a class="btn-primary" href="https://causal-inference-incrementality-engine.streamlit.app" target="_blank">🚀 Open App</a>
+        <a class="btn-primary" href="https://marketplace-causal-inference-incrementality-engine.streamlit.app" target="_blank">🚀 Open App</a>
         <a class="btn-secondary" href="https://github.com/S-ABDUL-AI/causal-inference-incrementality-engine" target="_blank">⌥ GitHub</a>
     </div>
     """,
